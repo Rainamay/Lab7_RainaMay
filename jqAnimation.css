@@ -1,0 +1,16 @@
+﻿
+
+.outerDiv {
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 50px;
+    position: absolute;
+}
+
+.div1 {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+}
